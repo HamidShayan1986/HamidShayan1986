@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamidShayan1986
-- 👀 I’m interested in qt c++, c#, opengl
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in qt c++,qml,  c#, opengl
+- 🌱 I’m currently learning qml, qt installer framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
